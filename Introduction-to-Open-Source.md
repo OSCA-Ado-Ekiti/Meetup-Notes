@@ -20,13 +20,15 @@
 - Cockroach University https://www.cockroachlabs.com/cockroach-university
 - Open Source For Designers: https://opensourcedesign.net/
 - How to contribute to open source core of CockroachDB https://www.youtube.com/watch?v=6gmplHI0j7U
+- Cockroach Labs Beginner Checklist Ffor Hacktoberfest: https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k
 
-## OpenSource Mentorship Programs: 
-- https://www.linuxfoundation.org/en/press-release/linux-foundation-expands-mentorship-program-in-response-to-covid-19/
-- https://www.outreachy.org/
-- https://summerofcode.withgoogle.com/
+## Open Source Mentorship Programs: 
+- Linux Foundation Expands Mentorship Program in Response to COVID-19: https://www.linuxfoundation.org/en/press-release/linux-foundation-expands-mentorship-program-in-response-to-covid-19/
+- Outreachy: https://www.outreachy.org/
+- Google Summer Of Code: https://summerofcode.withgoogle.com/
+- Google Season Of Docs: https://developers.google.com/season-of-docs
 - Hacktoberfest: https://hacktoberfest.digitalocean.com/
-- https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k
+- 
 
 ## Open Source Communities
 
