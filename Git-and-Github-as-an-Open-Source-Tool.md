@@ -9,9 +9,9 @@
 - How to make pull request using Git and using GitHub manually
 - We discussed what GitHub issues are.
 
-## Event Video:
+## Event Video: https://youtu.be/M-MXPw_1IhY
 
-(Please we are so sorry, the voice of our speaker was somehow muted due in some part of the video due to a mistake on our side while rcording the session)
+(Please we are so sorry, the voice of our speaker was somehow muted in some part of the video due to a mistake on our side while recording the session)
 
 
 ## Event Fliers:
