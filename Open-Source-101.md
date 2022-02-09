@@ -1,16 +1,16 @@
 The meetup we had on Saturday, the 5th of February was fabulous. Here is the summary of what we learned:
 
-We learned that Open source is a project(software or development project) that allows contribution, alteration, fixing of bugs et.c from third parties. It is also known as OSS(open source software). 
+We learned that Open source is a project(software or development project) that allows contribution, alteration, fixing of bugs e.t.c from third parties. It is also known as OSS(open source software). 
 
 What differentiate open source from other projects is that, Open source has Licence that allows contributors to modify or alter open source projects.
 
-They are three types of Licenses, they include; the permisive license, the restrictive or copy left license and the service side public license.    
+They are three types of Licenses, they include; the permissive license, the restrictive or copy left license and the service side public license.
 
 
 Why should we contribute to open source? we need to contribute to open source inorder to; enhance our learning coast, satisfy our desires from being lonely, to network and connect with like minds in the industry, get mentorship, we all need someone to guide us at some point in life. we also contribute inorder for our cv to be robust and finally for the swags and funds attached.
 
 
-Masures of contributing to open source; through documentation, design, security, translation, coding, community, advocacy, formatting, bug fixing and features suggestion. 
+Measures of contributing to open source; through documentation, design, security, translation, coding, community, advocacy, formatting, bug fixing and features suggestion. 
 
 Open source is not only for the code guys, everyone can contribute to open source you dont have to learn how to code!
 
