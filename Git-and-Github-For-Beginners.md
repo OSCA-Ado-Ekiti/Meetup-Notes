@@ -57,7 +57,7 @@ We had the opportunity to practicalize the theoretical aspect of what we have le
  <li>Create a new branch with <code>git checkout -b Branch-Name</code></li>
  <li>Add name according to the format in the <a href="https://github.com/OSCA-Ado-Ekiti/Members-Directory#readme">README.md</a> to the NAMES.md file.</li>
  <li>Open the terminal and confirm your directory is navigating to the Members-Directory then type <code>git add .</code> and press the Enter key</li>
- <li>Commit changes with a message with <code>git commit -m "<i>comnit message</i>"</code></li>
+ <li>Commit changes with a message with <code>git commit -m "<i>commit message</i>"</code></li>
  <li>Push changes to Github with <code>git push origin <i>Branch-Name</i></code></li>
  <li>Create a pull request from the created branch (e.g Branch-Name) to the main branch of <a href="https://github.com/OSCA-Ado-Ekiti/Members-Directory">OSCA-Ado-Ekiti/Members-Directory</a> repository on Github. 
  <ul>
