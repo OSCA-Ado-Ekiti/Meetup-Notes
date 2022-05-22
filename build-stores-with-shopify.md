@@ -1,4 +1,5 @@
-## Event Slides: 
+## Event Slides: [Building E-commerce stores with Shopify](https://slides.com/danielumoren/deck)
+
 
 ## Our Speaker:
 
