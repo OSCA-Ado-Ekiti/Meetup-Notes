@@ -1,6 +1,6 @@
 ## Event Slides: 
 
-## Our Speakers:
+## Our Speaker:
 
  - Vidya P [Growth Marketer at Swapstack] - [Twitter Handle](https://twitter.com/learnwithvidya)
 
