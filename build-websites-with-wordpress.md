@@ -1,4 +1,5 @@
-## Event Slides: [Building Websites using WordPress.pdf]()
+## Event Slides: [No Code websites using WordPress-1.pdf](https://github.com/saintmalik/Meetup-Notes/files/8748846/No.Code.websites.using.WordPress-1.pdf)
+
 
 ## Our Speakers:
  - Lax Mariappan [Backend Developer at WebDevStudio] - [Twitter Handle](https://twitter.com/laxmariappan)
@@ -13,4 +14,5 @@
 
 
 ## Event Flier: 
-![oscaadofliers]()
+![oscaadofliers](https://user-images.githubusercontent.com/37118134/169680748-e5d97656-7ef8-48bf-bc8e-21848e4d05cc.jpg)
+
