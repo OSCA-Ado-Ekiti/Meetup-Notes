@@ -1,4 +1,4 @@
-## Event Slides: 
+## Event Slides: https://www.notion.so/learnwithvidya/No-Code-Low-Code-and-Notion-b3fbb93df70a43ff80f460fee3925474
 
 ## Our Speaker:
 
