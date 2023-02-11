@@ -10,3 +10,4 @@
 - Sixth Meetup(Virtual):  
     - [Workshop: Building E-commerce stores using shopify(Low Code Tool)](build-stores-with-shopify.md)
     - [Workshop: Creating AI driven chat bots using Power Platform(No Code Tool)](create-ai-chatbots-with-powerplatform.md)
+- Seventh Meetup(Virtual): [Building a Docs as Code system with GitHub](https://github.com/OSCA-Ado-Ekiti/Meetup-Notes/blob/main/Building-a-Docs-as-Code-system-with-GitHub.md)
