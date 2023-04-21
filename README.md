@@ -13,3 +13,5 @@
     - [Workshop: Creating AI driven chat bots using Power Platform(No Code Tool)](create-ai-chatbots-with-powerplatform.md)
 - Eighth Meetup(Virtual): [Building a Docs as Code system with GitHub](Building-a-Docs-as-Code-system-with-GitHub.md)
 - Ninth Meetup(Virtual): [Collaborative Event: HACKTOBERFEST EKITI 2022](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti)
+- Tenth Meetup (Virtual): [Career Advancement through open source](https://github.com/OSCA-Ado-Ekiti/Meetup-Notes/blob/main/career-Advancement-through-open-source.md)
+- Eleventh Meetup (Virtual): [Doc as Code in the technical writing worlds](https://github.com/OSCA-Ado-Ekiti/Meetup-Notes/blob/main/Doc-as-Code-in-the-technical-writing-worlds.md)
