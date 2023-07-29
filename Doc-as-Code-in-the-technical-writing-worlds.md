@@ -12,7 +12,7 @@
     -  [Jamstack Generators](https://jamstack.org/generators/)
 
 ## Workshop recorded session:
-- [Doc as Code in the technical writing worlds](https://youtu.be/MC0bU0-nrsY)
+- [Doc as Code in the technical writing worlds](https://youtu.be/a6JCNRdyFPQ)
 
 
 ## Event Flier: 

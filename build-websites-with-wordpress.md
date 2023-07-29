@@ -9,7 +9,7 @@
 - Creating a demo/sandboxes wordpress site freely https://instawp.com
 
 ## Workshop recorded session:
-[Building websites using WordPress (Low Code Tools](https://youtu.be/iQBuUP_QCXo)
+[Building websites using WordPress (Low Code Tools](https://youtu.be/Lrv46kwSOhA)
 [Continuation: Building websites using WordPress (Low Code Tools](https://youtu.be/onk8KGkuOBA)
 
 

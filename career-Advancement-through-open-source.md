@@ -19,7 +19,7 @@
     - [Apply to Outreachy](https://preshh0.hashnode.dev/applying-for-outreachy-internships )
 
 ## Workshop recorded session:
-- [Career Advancement through open source](https://youtu.be/c-JA_3flG3E)
+- [Career Advancement through open source](https://youtu.be/E4D4fphUwmA)
 
 
 ## Event Flier: 

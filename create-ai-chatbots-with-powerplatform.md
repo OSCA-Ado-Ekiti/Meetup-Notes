@@ -10,7 +10,7 @@
 
 ## Workshop recorded session:
 
-[Creating AI driven chat bots using power platform (No Code Tools](https://youtu.be/xcBQ3XvjAXw)
+[Creating AI driven chat bots using power platform (No Code Tools](https://youtu.be/DPxpJYB5ZJc)
 
 ## Event Flier: 
 

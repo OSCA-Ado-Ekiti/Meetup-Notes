@@ -10,7 +10,7 @@
 
 ## Workshop recorded session:
 
-[Getting Started With Low Code Tools/No Code](https://youtu.be/VWXeBGq8URA)
+[Getting Started With Low Code Tools/No Code](https://youtu.be/y7RbQz8R_Tg)
 
 ## Event Flier: 
 

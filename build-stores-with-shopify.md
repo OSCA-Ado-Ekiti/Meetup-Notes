@@ -11,7 +11,7 @@
 
 ## Workshop recorded session:
 
-[Building E-commerce stores using Shopify (No Code Tools](https://youtu.be/r2r8K4g2LYo)
+[Building E-commerce stores using Shopify (No Code Tools](https://youtu.be/seQVg3GBGao)
 
 ## Event Flier: 
 
