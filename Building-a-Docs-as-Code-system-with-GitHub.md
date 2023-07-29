@@ -12,8 +12,8 @@
     -  [Jamstack Generators](https://jamstack.org/generators/)
 
 ## Workshop recorded session:
-- [Building a Docs as Code system with GitHub](https://youtu.be/hxwonXaPwzo)
-- [Continuation: Building a Docs as Code system with GitHub](https://youtu.be/oteG0AfKiJ4)
+- [Building a Docs as Code system with GitHub](https://youtu.be/DoX3d_2zw84)
+- [Continuation: Building a Docs as Code system with GitHub](https://youtu.be/s2NPfc9f3dQ)
 
 
 ## Event Flier: 
